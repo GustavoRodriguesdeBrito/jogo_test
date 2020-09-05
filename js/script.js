@@ -1,6 +1,6 @@
 
-var altura =400;
-var largura =100;
+var altura = 420;
+var largura = 120;
 
 $("#campo").keydown(function(evento){
 
